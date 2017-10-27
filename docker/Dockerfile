@@ -1,4 +1,4 @@
-FROM       cyberdojofoundation/coffeescript:2.0.1
+FROM       cyberdojofoundation/coffeescript:2.0.2
 MAINTAINER Jon Jagger <jon@jaggersoft.com>
 
 RUN npm install -g jasmine-node
