@@ -1,4 +1,3 @@
-
 [![CircleCI](https://circleci.com/gh/cyber-dojo-languages/coffeescript-jasmine.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/coffeescript-jasmine)
 
 ## display_name="CoffeeScript, jasmine"
