@@ -1,15 +1,12 @@
 {
+  "image_name": "cyberdojofoundation/coffeescript_jasmine",
   "display_name": "CoffeeScript, jasmine",
-
   "visible_filenames": [
     "hiker_spec.coffee",
     "hiker.coffee",
     "cyber-dojo.sh"
   ],
-
-  "image_name": "cyberdojofoundation/coffeescript_jasmine",
-
-  "filename_extension": ".coffee",
-
+  "filename_extension": [ ".coffee" ],
+  "max_seconds": 10,
   "tab_size": 2
 }
