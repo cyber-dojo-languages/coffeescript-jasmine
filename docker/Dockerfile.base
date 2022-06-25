@@ -1,4 +1,4 @@
-FROM cyberdojofoundation/coffeescript:abfca76
+FROM cyberdojofoundation/coffeescript:595c28c
 LABEL maintainer=jon@jaggersoft.com
 
 RUN npm install -g jasmine-node
