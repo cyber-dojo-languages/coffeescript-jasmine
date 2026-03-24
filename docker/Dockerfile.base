@@ -1,6 +1,4 @@
-FROM cyberdojofoundation/coffeescript:595c28c
+FROM ghcr.io/cyber-dojo-languages/coffeescript:e71b1ba
 LABEL maintainer=jon@jaggersoft.com
 
 RUN npm install -g jasmine-node
-
-COPY red_amber_green.rb /usr/local/bin
