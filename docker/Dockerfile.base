@@ -1,4 +1,4 @@
-FROM ghcr.io/cyber-dojo-languages/coffeescript:e71b1ba
+FROM ghcr.io/cyber-dojo-languages/coffeescript:52d4e18
 LABEL maintainer=jon@jaggersoft.com
 
 RUN npm install -g jasmine-node
