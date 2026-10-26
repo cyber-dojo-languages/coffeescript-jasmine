@@ -1,4 +1,4 @@
-FROM ghcr.io/cyber-dojo-languages/coffeescript:a7aac2f
+FROM ghcr.io/cyber-dojo-languages/coffeescript:13e3062@sha256:8d1354a5bcceee8a24f340385d0ddbec2195b250ab2258a598ae9c3c730b3a51
 LABEL maintainer=jon@jaggersoft.com
 
 COPY install.sh .
